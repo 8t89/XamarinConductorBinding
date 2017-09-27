@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Com.Acacace.ConductorBinding</id>
+    <version>1.0.0</version>
+    <title>Xamarin Android Conductor</title>
+    <authors>Antonino Cacace</authors>
+    <owners>Antonino Cacace</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://github.com/Antoninjo/XamarinConductorBinding</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Conductor library binding to Xamarin Android </description>
+    <releaseNotes>First release, aligned to Android version 2.1.4</releaseNotes>
+    <tags>Xamarin Android Fragments Fragment Conductor</tags>
+  </metadata>
+  <files>
+    <file src="bin/Release/ConductorBinding.dll" target="lib/MonoAndroid" />
+  </files>
+</package>
