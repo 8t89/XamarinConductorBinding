@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConductorBinding", "ConductorBinding\ConductorBinding.csproj", "{74813B88-6C30-413F-93FB-9FFF39046A54}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo", "Demo", "{EE42CABB-5B95-438E-88FE-53698F118375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConductorBindingDemo", "ConductorBindingDemo\ConductorBindingDemo.csproj", "{6E0074AD-AA73-4226-86AD-9FD9D8C894AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +17,12 @@ Global
 		{74813B88-6C30-413F-93FB-9FFF39046A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74813B88-6C30-413F-93FB-9FFF39046A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74813B88-6C30-413F-93FB-9FFF39046A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E0074AD-AA73-4226-86AD-9FD9D8C894AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0074AD-AA73-4226-86AD-9FD9D8C894AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0074AD-AA73-4226-86AD-9FD9D8C894AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0074AD-AA73-4226-86AD-9FD9D8C894AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6E0074AD-AA73-4226-86AD-9FD9D8C894AA} = {EE42CABB-5B95-438E-88FE-53698F118375}
 	EndGlobalSection
 EndGlobal
