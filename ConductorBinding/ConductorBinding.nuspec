@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Com.Acacace.ConductorBinding</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>Xamarin Android Conductor</title>
     <authors>Antonino Cacace</authors>
     <owners>Antonino Cacace</owners>
@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/Antoninjo/XamarinConductorBinding</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Conductor library binding to Xamarin Android </description>
-    <releaseNotes>First release, aligned to Android version 2.1.4</releaseNotes>
+    <releaseNotes>Aligned to Conductor 2.1.5</releaseNotes>
     <tags>Xamarin Android Fragments Fragment Conductor</tags>
   </metadata>
   <files>
